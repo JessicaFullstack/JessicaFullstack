@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JessicaFullstack
-- 🌱 I’m currently learning as much as I can (Full Stack Development), in my repository you will find various projects I worked on as part of a Full Stack software engineering bootcamp - Bright Network Technology Academy.
+- 🌱 I’m currently learning as much as I can, in my repository you will find various projects I worked on as part of a Full Stack Development bootcamp - Bright Network Technology Academy.
 - 💞️ I’m looking to collaborate on buiding products that last.
 - 📫 How to reach me - Linked in 
 
