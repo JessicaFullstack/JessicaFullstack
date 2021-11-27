@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JessicaFullstack
 - 🌱 I’m currently learning as much as I can. In my repository you will find various projects I worked on as part of a Full Stack Software Engineering bootcamp by Bright Network Technology Academy.
-- 💞️ I’m looking to collaborate on buiding products that last.
+- 💞️ I’m looking to collaborate on building products that last.
 - 📫 How to reach me - LinkedIn 
 
 <!---
